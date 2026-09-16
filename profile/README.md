@@ -25,7 +25,7 @@ watch them in, and the tools that venues and camera owners use on top of it.
 |---|---|
 | **[volvevision.com](https://volvevision.com)** | The catalogue: ~5,000 cameras, 98 countries, ~1,000 cities, four languages |
 | **Mobile apps** | iOS and Android clients, live |
-| **[VolveMenu](https://menu.volvevision.com)** | Digital menu boards for venues, live with first customers |
+| **[VolveMenu](https://menu.volvevision.com)** | Digital menu boards for venues. Service and apps live, running on trial screens while the first venues are signed |
 | **Video analytics** | Counting and detection on existing camera feeds. In development |
 
 ## Following our work
